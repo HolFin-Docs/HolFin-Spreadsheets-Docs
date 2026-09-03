@@ -1,6 +1,6 @@
 # HolFin Spreadsheet Functions
 
-Pull financial data directly into Excel and Google Sheets using HolFin formulas — no copy-pasting, no manual updates.
+Pull financial data directly into MS Excel™ and Google Sheets™ using HolFin formulas — no copy-pasting, no manual updates.
 
 > **Platform note:** Function names are identical across both platforms. Only the separator differs:
 > - **Google Sheets:** underscore → `=HOLFIN_INCOME(...)`
